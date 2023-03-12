@@ -21,7 +21,7 @@
   */
  
  html {
-   font-family: 'Poppins', serif; /* 1 */
+   font-family: 'Fredoka One', serif; /* 1 */
    -ms-text-size-adjust: 100%; /* 2 */
    -webkit-text-size-adjust: 100%; /* 2 */
    @if $legacy_browser_support {
